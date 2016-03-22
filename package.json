@@ -1,1 +1,7 @@
-{}
+{
+  "name": "@cl0udw4lk3r/gulp-browserify",
+  "version": "0.0.0",
+  "dependencies": {
+    "browserify": "^13.0.0"
+  }
+}
